@@ -22,6 +22,11 @@
 			<version>5.7.0</version>
 			<scope>test</scope>
 		</dependency>
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20210307</version>
+</dependency>
 
 		<!-- Spring WebMVC -->
 		<dependency>
